@@ -71,6 +71,7 @@ footer {
 .style1 span {
   text-transform: uppercase;
   display: block;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 
@@ -79,13 +80,13 @@ footer {
   position: relative;
   margin-bottom: 10px;
   letter-spacing: 8px;
-  font-weight: 700;
-  font-size: 60px;
+  font-weight: 700em;
+  font-size: 150px;
 }
-  
+
 .text2 {
   font-size: 60px;
-  margin-top: 30px;
+  margin-top: 40px;
 
 }
 
